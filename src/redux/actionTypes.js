@@ -1,1 +1,3 @@
-export const PLACEHOLDER_ACTION = 'PLACEHOLDER_ACTION';
+export const SELECT_ITEM = 'SELECT_ITEM';
+
+export const DESELECT_ITEM = 'DESELECT_ITEM';

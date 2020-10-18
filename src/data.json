@@ -1,0 +1,67 @@
+{
+    "Zombie Piglin XP Farm":{
+        "Location":"Through the Portal marked NetherXP",
+        "Automatic":true,
+        "Produces":["XP", "Gold Nugget"]
+    },
+
+    "Enderman XP Farm":{
+        "Location":"Through the End Portal, off the main island",
+        "Automatic":false,
+        "Produces":["XP", "Ender Pearl"]
+    },
+
+    "Overworld Mob XP Farm":{
+        "Location":"SKYBASE-01",
+        "Automatic":true,
+        "Produces":["XP", "Gunpowder","Arrow","Bone","Bow"]
+    },
+
+    "Sugar Cane Farm":{
+        "Location":"SKYBASE-01",
+        "Automatic":true,
+        "Produces":["Sugar Cane"]
+    },
+
+    "Iron Golem Farm":{
+        "Location":"SKYBASE-01",
+        "Automatic":true,
+        "Produces":["Iron Ingot","Poppy"]
+    },
+
+    "Turbo Crop Farm":{
+        "Location":"SKYBASE-01",
+        "Automatic":false,
+        "Produces":["Carrot", "Potato", "Wheat", "Beetroot"]
+    },
+
+    "Slime Farm":{
+        "Location":"Overworld -4040x, -3918z",
+        "Automatic":true,
+        "Produces":["Slimeball"]
+    },
+
+    "Witch Farm":{
+        "Location":"Overworld -2384x, -5468z",
+        "Automatic":true,
+        "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Stick", "Glass Bottle", "Spider Eye", "Sugar"]
+    },
+
+    "Guardian Farm":{
+        "Location":"Overworld -3280x, -3506y",
+        "Automatic":true,
+        "Produces":["Prismarine Shard", "Prismarine Crystal", "Ink Sac", "Raw Cod"]
+    },
+
+    "Honey Farm":{
+        "Location":"Through the Portal marked NetherXP",
+        "Automatic":true,
+        "Produces":["Honey Block"]
+    },
+
+    "Magma Cube Farm":{
+        "Location":"Nether Roof -153x, -573z",
+        "Automatic":true,
+        "Produces":["Magma Cream"]
+    }
+}
