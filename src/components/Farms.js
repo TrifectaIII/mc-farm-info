@@ -7,7 +7,7 @@ class Farm extends React.Component {
 
     render = () => {
         if (this.props.chosenItem in items) {
-            const farmsDisplay = items[this.props.chosenItem].map ((name) => {
+            const farmsDisplay = items[this.props.chosenItem].sort().map ((name) => {
                 const farmInfo = farms[name];
                 return (
                     <div key={name}>

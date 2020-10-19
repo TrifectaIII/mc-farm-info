@@ -6,7 +6,7 @@ import {selectItem} from '../redux/actions';
 class Items extends React.Component {
 
     render = () => {
-        const buttons = Object.keys(items).map((name) => {
+        const buttons = Object.keys(items).sort().map((name) => {
             return (
                 <button 
                     key={name} 
