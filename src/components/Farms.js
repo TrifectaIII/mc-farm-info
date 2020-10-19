@@ -12,9 +12,9 @@ class Farm extends React.Component {
                 return (
                     <div key={name}>
                         <h2>{name}</h2>
-                        <p><b>Location: </b>{farmInfo.Location}</p>
+                        <p><b>Location: </b><a href={farmInfo.DynmapLink}>{farmInfo.Location}</a></p>
                         <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
-                        <p><b>Produces: </b>{farmInfo.Produces}</p>
+                        <p><b>Produces: </b>{farmInfo.Produces.join(", ")}</p>
                     </div>
                 )
             })

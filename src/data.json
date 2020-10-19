@@ -2,66 +2,77 @@
     "Zombie Piglin XP Farm":{
         "Location":"Through the Portal marked NetherXP",
         "Automatic":true,
-        "Produces":["XP", "Gold Nugget"]
+        "Produces":["XP", "Gold Nugget"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449"
     },
 
     "Enderman XP Farm":{
         "Location":"Through the End Portal, off the main island",
         "Automatic":false,
-        "Produces":["XP", "Ender Pearl"]
+        "Produces":["XP", "Ender Pearl"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world_the_end&mapname=flat&zoom=6&x=291&y=64&z=0"
     },
 
     "Overworld Mob XP Farm":{
         "Location":"SKYBASE-01",
         "Automatic":true,
-        "Produces":["XP", "Gunpowder","Arrow","Bone","Bow"]
+        "Produces":["XP", "Gunpowder","Arrow","Bone","Bow"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297"
     },
 
     "Sugar Cane Farm":{
         "Location":"SKYBASE-01",
         "Automatic":true,
-        "Produces":["Sugar Cane"]
+        "Produces":["Sugar Cane"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297"
     },
 
     "Iron Golem Farm":{
         "Location":"SKYBASE-01",
         "Automatic":true,
-        "Produces":["Iron Ingot","Poppy"]
+        "Produces":["Iron Ingot","Poppy"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297"
     },
 
     "Turbo Crop Farm":{
         "Location":"SKYBASE-01",
         "Automatic":false,
-        "Produces":["Carrot", "Potato", "Wheat", "Beetroot"]
+        "Produces":["Carrot", "Potato", "Wheat", "Beetroot"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297"
     },
 
     "Slime Farm":{
         "Location":"Overworld -4040x, -3918z",
         "Automatic":true,
-        "Produces":["Slimeball"]
+        "Produces":["Slimeball"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-4061&y=64&z=-3238"
     },
 
     "Witch Farm":{
         "Location":"Overworld -2384x, -5468z",
         "Automatic":true,
-        "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Stick", "Glass Bottle", "Spider Eye", "Sugar"]
+        "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Stick", "Glass Bottle", "Spider Eye", "Sugar"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=-2366&y=64&z=-5463"
     },
 
     "Guardian Farm":{
         "Location":"Overworld -3280x, -3506y",
         "Automatic":true,
-        "Produces":["Prismarine Shard", "Prismarine Crystal", "Ink Sac", "Raw Cod"]
+        "Produces":["Prismarine Shard", "Prismarine Crystals", "Ink Sac", "Raw Cod"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-3287&y=64&z=-3514"
     },
 
     "Honey Farm":{
         "Location":"Through the Portal marked NetherXP",
         "Automatic":true,
-        "Produces":["Honey Block"]
+        "Produces":["Honey Block"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449"
     },
 
     "Magma Cube Farm":{
-        "Location":"Nether Roof -153x, -573z",
+        "Location":"Through the Portal marked NetherXP, then take the Ice Path",
         "Automatic":true,
-        "Produces":["Magma Cream"]
+        "Produces":["Magma Cream"],
+        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449"
     }
 }
