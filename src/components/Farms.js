@@ -15,6 +15,7 @@ class Farm extends React.Component {
                         <p><b>Location: </b><a href={farmInfo.DynmapLink}>{farmInfo.Location}</a></p>
                         <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
                         <p><b>Produces: </b>{farmInfo.Produces.join(", ")}</p>
+                        {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}
                     </div>
                 )
             })
