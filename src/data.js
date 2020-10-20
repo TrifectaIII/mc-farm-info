@@ -1,4 +1,4 @@
-import data from './data.json';
+import data from './farmInfo.json';
 
 export const farms = data;
 
