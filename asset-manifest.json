@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mc-farm-info/static/css/main.8d78e7fe.chunk.css",
+    "main.css": "/mc-farm-info/static/css/main.8ae42cd8.chunk.css",
     "main.js": "/mc-farm-info/static/js/main.552621b7.chunk.js",
     "main.js.map": "/mc-farm-info/static/js/main.552621b7.chunk.js.map",
     "runtime-main.js": "/mc-farm-info/static/js/runtime-main.7c8893d9.js",
@@ -8,9 +8,9 @@
     "static/js/2.252260b6.chunk.js": "/mc-farm-info/static/js/2.252260b6.chunk.js",
     "static/js/2.252260b6.chunk.js.map": "/mc-farm-info/static/js/2.252260b6.chunk.js.map",
     "index.html": "/mc-farm-info/index.html",
-    "precache-manifest.ceb16e11cb368235401259bcde503a59.js": "/mc-farm-info/precache-manifest.ceb16e11cb368235401259bcde503a59.js",
+    "precache-manifest.200b5ba2ff46abff1c6cb4599595d7b2.js": "/mc-farm-info/precache-manifest.200b5ba2ff46abff1c6cb4599595d7b2.js",
     "service-worker.js": "/mc-farm-info/service-worker.js",
-    "static/css/main.8d78e7fe.chunk.css.map": "/mc-farm-info/static/css/main.8d78e7fe.chunk.css.map",
+    "static/css/main.8ae42cd8.chunk.css.map": "/mc-farm-info/static/css/main.8ae42cd8.chunk.css.map",
     "static/js/2.252260b6.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.252260b6.chunk.js.LICENSE.txt",
     "static/media/Experience.gif": "/mc-farm-info/static/media/Experience.b4941feb.gif",
     "static/media/Gold_Nugget.png": "/mc-farm-info/static/media/Gold_Nugget.f0e9c2b7.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c8893d9.js",
     "static/js/2.252260b6.chunk.js",
-    "static/css/main.8d78e7fe.chunk.css",
+    "static/css/main.8ae42cd8.chunk.css",
     "static/js/main.552621b7.chunk.js"
   ]
 }
