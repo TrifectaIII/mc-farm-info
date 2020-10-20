@@ -1,0 +1,14 @@
+.Items button {
+    border-radius: 10px;
+    border-color:black;
+    border-width:5px;
+    margin:2px;
+}
+
+.Items button:disabled{
+    border-color:red;
+}
+
+.Items img {
+    width: 80px;
+}

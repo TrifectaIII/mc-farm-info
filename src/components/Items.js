@@ -3,6 +3,7 @@ import {connect} from 'react-redux';
 import {items} from '../data';
 import {selectItem} from '../redux/actions';
 import Images from '../images';
+import './Items.css'
 
 class Items extends React.Component {
 
@@ -19,7 +20,7 @@ class Items extends React.Component {
                 </button>
             );
         })
-        return <div>{buttons}</div>;
+        return <div class='Items'>{buttons}</div>;
     }
 }
 
