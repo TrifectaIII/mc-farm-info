@@ -2,6 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import {items} from '../data';
 import {selectItem} from '../redux/actions';
+import Images from '../images';
 
 class Items extends React.Component {
 
@@ -14,7 +15,7 @@ class Items extends React.Component {
                     disabled={name === this.props.chosenItem}
                     onClick={()=>this.props.selectItem(name)}
                 >
-                    {name}
+                    <img src={Images[name]} title={name} alt={name}/>
                 </button>
             );
         })
