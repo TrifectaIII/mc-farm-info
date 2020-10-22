@@ -8,11 +8,16 @@
     border-width:5px;
     margin:2px;
     background-color: grey;
+    box-sizing: border-box;
+}
+
+.Items button:hover{
+    background-color: white;
 }
 
 .Items button:disabled{
-    border-color:orange;
-    background-color: white;
+    border-color:yellow;
+    background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue)
 }
 
 .Items img {
