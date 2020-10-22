@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mc-farm-info/static/css/main.67f15c96.chunk.css",
-    "main.js": "/mc-farm-info/static/js/main.8a7a1e0e.chunk.js",
-    "main.js.map": "/mc-farm-info/static/js/main.8a7a1e0e.chunk.js.map",
+    "main.css": "/mc-farm-info/static/css/main.f5f9707a.chunk.css",
+    "main.js": "/mc-farm-info/static/js/main.6c697907.chunk.js",
+    "main.js.map": "/mc-farm-info/static/js/main.6c697907.chunk.js.map",
     "runtime-main.js": "/mc-farm-info/static/js/runtime-main.7c8893d9.js",
     "runtime-main.js.map": "/mc-farm-info/static/js/runtime-main.7c8893d9.js.map",
     "static/js/2.252260b6.chunk.js": "/mc-farm-info/static/js/2.252260b6.chunk.js",
     "static/js/2.252260b6.chunk.js.map": "/mc-farm-info/static/js/2.252260b6.chunk.js.map",
     "index.html": "/mc-farm-info/index.html",
-    "precache-manifest.c3a94edca52a60b0509e434609220e67.js": "/mc-farm-info/precache-manifest.c3a94edca52a60b0509e434609220e67.js",
+    "precache-manifest.e9e8d88eb9128a9da2a372d6a4bc15c6.js": "/mc-farm-info/precache-manifest.e9e8d88eb9128a9da2a372d6a4bc15c6.js",
     "service-worker.js": "/mc-farm-info/service-worker.js",
-    "static/css/main.67f15c96.chunk.css.map": "/mc-farm-info/static/css/main.67f15c96.chunk.css.map",
+    "static/css/main.f5f9707a.chunk.css.map": "/mc-farm-info/static/css/main.f5f9707a.chunk.css.map",
     "static/js/2.252260b6.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.252260b6.chunk.js.LICENSE.txt",
     "static/media/Experience.gif": "/mc-farm-info/static/media/Experience.b4941feb.gif",
     "static/media/Gold_Nugget.png": "/mc-farm-info/static/media/Gold_Nugget.f0e9c2b7.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c8893d9.js",
     "static/js/2.252260b6.chunk.js",
-    "static/css/main.67f15c96.chunk.css",
-    "static/js/main.8a7a1e0e.chunk.js"
+    "static/css/main.f5f9707a.chunk.css",
+    "static/js/main.6c697907.chunk.js"
   ]
 }
