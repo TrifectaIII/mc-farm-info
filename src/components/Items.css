@@ -1,12 +1,18 @@
+.Items {
+    margin-top: 50px;
+}
+
 .Items button {
     border-radius: 10px;
     border-color:black;
     border-width:5px;
     margin:2px;
+    background-color: grey;
 }
 
 .Items button:disabled{
-    border-color:red;
+    border-color:orange;
+    background-color: white;
 }
 
 .Items img {

@@ -12,7 +12,7 @@ class Farms extends React.Component {
             const farmsDisplay = items[this.props.chosenItem].sort().map ((name) => {
                 const farmInfo = farms[name];
                 const producesImages = farmInfo.Produces.map((itemName) => {
-                    return (<img alt={itemName} title={itemName} src={Images[itemName]}/>);
+                    return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
                 })
                 return (
                     <div key={name}>
@@ -25,7 +25,7 @@ class Farms extends React.Component {
                 )
             })
 
-            return (<div class='Farms'>{farmsDisplay}</div>)
+            return (<div class='Farms'>{farmsDisplay}</div>);
         }
         return null;
     }
