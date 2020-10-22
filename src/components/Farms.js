@@ -15,7 +15,7 @@ class Farms extends React.Component {
                     return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
                 })
                 return (
-                    <div key={name}>
+                    <div class='farmInfo' key={name}>
                         <h2>{name}</h2>
                         <p><b>Location: </b><a href={farmInfo.DynmapLink}>{farmInfo.Location}</a></p>
                         <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>

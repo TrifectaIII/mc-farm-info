@@ -9,6 +9,7 @@
     margin:2px;
     background-color: grey;
     box-sizing: border-box;
+    border-style: solid;
 }
 
 .Items button:hover{
@@ -16,8 +17,8 @@
 }
 
 .Items button:disabled{
-    border-color:yellow;
-    background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue)
+    border-color: yellow;
+    background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue, purple)
 }
 
 .Items img {
