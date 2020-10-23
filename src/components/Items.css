@@ -7,7 +7,7 @@
     border-color:black;
     border-width:5px;
     margin:2px;
-    background-color: grey;
+    background-color: rgb(180, 180, 180);
     box-sizing: border-box;
     border-style: solid;
 }
@@ -23,4 +23,5 @@
 
 .Items img {
     width: 80px;
+    max-width: 10vw;
 }
