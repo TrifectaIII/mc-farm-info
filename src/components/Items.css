@@ -1,4 +1,6 @@
 .Items {
+    max-width: 80%;
+    margin: auto;
     margin-top: 50px;
 }
 
@@ -13,7 +15,7 @@
 }
 
 .Items button:hover{
-    background-color: white;
+    background-color: white; 
 }
 
 .Items button:disabled{

@@ -5,7 +5,11 @@
 .Farms .farmInfo {
     border-radius: 10px;
     padding: 5px;
-    margin: 5px;
+    margin:auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-width: 80%;
+
 }
 
 .Farms .farmInfo:nth-child(2n) {
