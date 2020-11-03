@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9da5de6cef83915534862c87111f0fdd",
+    "revision": "137d9d538382aa632929f74fe2670679",
     "url": "/mc-farm-info/index.html"
   },
   {
-    "revision": "882b360459588e2476f1",
-    "url": "/mc-farm-info/static/css/main.cc913cb5.chunk.css"
+    "revision": "16347c00a6d510d1abe1",
+    "url": "/mc-farm-info/static/css/main.cac7454a.chunk.css"
   },
   {
-    "revision": "54807c54907d112fbc56",
-    "url": "/mc-farm-info/static/js/2.252260b6.chunk.js"
+    "revision": "8c1be2f7c7971e6e2008",
+    "url": "/mc-farm-info/static/js/2.61c2736a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/mc-farm-info/static/js/2.252260b6.chunk.js.LICENSE.txt"
+    "url": "/mc-farm-info/static/js/2.61c2736a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "882b360459588e2476f1",
-    "url": "/mc-farm-info/static/js/main.d0b5a6c1.chunk.js"
+    "revision": "16347c00a6d510d1abe1",
+    "url": "/mc-farm-info/static/js/main.1f635109.chunk.js"
   },
   {
     "revision": "e3e46b34507d692bdfa6",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f0e9c2b719967d642094f6dee509a603",
     "url": "/mc-farm-info/static/media/Gold_Nugget.f0e9c2b7.png"
+  },
+  {
+    "revision": "f4e3690b0c9e1bca5aa1bb42bb903a17",
+    "url": "/mc-farm-info/static/media/Minecraft_Rail_Map.f4e3690b.png"
   },
   {
     "revision": "b2da77ac5070b3ec41306ef2e6ce994c",
