@@ -2,7 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import {items} from '../data';
 import {selectItem} from '../redux/actions';
-import Images from '../images';
+import Images from '../item_images';
 import './Items.css'
 
 class Items extends React.Component {

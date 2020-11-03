@@ -2,7 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux';
 import {items, farms} from '../data';
 import {deselectItem} from '../redux/actions';
-import Images from '../images';
+import Images from '../item_images';
 import './Farms.css';
 
 class Farms extends React.Component {
