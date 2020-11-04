@@ -25,7 +25,7 @@ class App extends React.Component {
         return (
             <div>
                 <div>
-                    Created by <a href="https://trifectaiii.github.io/" tabindex="-1">
+                    Created by <a href="https://trifectaiii.github.io/" tabIndex="-1">
                         Dakota Madden-Fong
                     </a>
                 </div>

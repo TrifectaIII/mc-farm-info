@@ -8,6 +8,7 @@ import './Farms.css';
 class Farms extends React.Component {
 
     render = () => {
+        console.log(process.env)
         if (this.props.chosenItem in items) {
             const farmsDisplay = items[this.props.chosenItem].sort().map ((name) => {
                 const farmInfo = farms[name];
@@ -15,9 +16,9 @@ class Farms extends React.Component {
                     return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
                 })
                 return (
-                    <div class='farmInfo' key={name}>
+                    <div className='farmInfo' key={name}>
                         <h2>{name}</h2>
-                        <p><b>Location: </b><a href={farmInfo.DynmapLink}>{farmInfo.Location}</a></p>
+                        <p><b>Location: </b><a href={farmInfo.DynmapLink.replace('%REACT_APP_SERVER_IP%', process.env.REACT_APP_SERVER_IP)}>{farmInfo.Location}</a></p>
                         <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
                         <p><b>Produces: </b>{producesImages}</p>
                         {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}
@@ -25,7 +26,7 @@ class Farms extends React.Component {
                 )
             })
 
-            return (<div class='Farms'>{farmsDisplay}</div>);
+            return (<div className='Farms'>{farmsDisplay}</div>);
         }
         return null;
     }

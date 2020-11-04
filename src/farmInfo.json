@@ -3,15 +3,15 @@
         "Location":"Through the Portal marked NetherXP",
         "Automatic":true,
         "Produces":["Experience", "Gold Nugget"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Climb to the top of the scaffolding, then stand on the glass between the two drop chutes."
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
+        "Notes":"Climb to the top of the scaffolding, then stand on the chest between the two drop chutes."
     },
 
     "Enderman Experience Farm":{
         "Location":"Through the End Portal, off the main island",
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world_the_end&mapname=flat&zoom=6&x=291&y=64&z=0",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world_the_end&mapname=flat&zoom=6&x=291&y=64&z=0",
         "Notes":"Follow the waterfall, then walk to the end of the glass pathway. If you don't have a sword with Sweeping Edge III, borrow the sword in the chest by the entrance and swipe at the endermen."
     },
 
@@ -19,7 +19,7 @@
         "Location":"SKYBASE-01",
         "Automatic":true,
         "Produces":["Experience", "Gunpowder","Arrow","Bone","Bow"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
         "Notes":"On the northern platform. Will only drop Bows and Experience if you are in Manual mode, which requires you to kill them yourself with a sword. Output is sorted."
     },
 
@@ -27,7 +27,7 @@
         "Location":"SKYBASE-01",
         "Automatic":true,
         "Produces":["Sugar Cane"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
         "Notes":"On the northern platform."
     },
 
@@ -35,7 +35,7 @@
         "Location":"SKYBASE-01",
         "Automatic":true,
         "Produces":["Iron Ingot","Poppy"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
         "Notes":"On the western platform. Output is sorted."
     },
 
@@ -43,7 +43,7 @@
         "Location":"SKYBASE-01",
         "Automatic":false,
         "Produces":["Carrot", "Potato", "Wheat", "Beetroot"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
         "Notes":"On the northern platform. Stand to the right of the farmland and press down right click while holding the crop of your choice."
     },
 
@@ -51,7 +51,7 @@
         "Location":"Overworld -4040x, -3918z",
         "Automatic":true,
         "Produces":["Slimeball"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-4061&y=64&z=-3238",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-4061&y=64&z=-3238",
         "Notes":"AFK Platform is high in the air. Output is underground, down a safe drop chute."
     },
 
@@ -59,7 +59,7 @@
         "Location":"Overworld -2384x, -5468z",
         "Automatic":true,
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Stick", "Glass Bottle", "Spider Eye", "Sugar"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=-2366&y=64&z=-5463",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=-2366&y=64&z=-5463",
         "Notes":"AFK Platform is high in the air. Sorted output is in a pit next to the farm."
     },
 
@@ -67,7 +67,7 @@
         "Location":"Overworld -3280x, -3506y",
         "Automatic":true,
         "Produces":["Prismarine Shard", "Prismarine Crystals", "Ink Sac", "Raw Cod"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=5&x=-3287&y=64&z=-3514",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-3287&y=64&z=-3514",
         "Notes":"AFK Platform is high in the air. Sorted output is through the nether portal at the end of the pier."
     },
 
@@ -75,7 +75,7 @@
         "Location":"Through the Portal marked NetherXP",
         "Automatic":true,
         "Produces":["Honey Block"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
         "Notes":"Right on top of the nether roof, to the side once you exit the portal. Craft the output bottles into blocks, then place the empty bottles into the input chest near the top of the farm."
     },
 
@@ -83,7 +83,7 @@
         "Location":"Through the Portal marked NetherXP",
         "Automatic":true,
         "Produces":["Magma Cream"],
-        "DynmapLink":"http://99.42.140.10:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
         "Notes":"Use a boat (provided) to travel the ice path after exiting the portal. AFK Platform is high in the air."
     }
 }

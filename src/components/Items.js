@@ -20,7 +20,7 @@ class Items extends React.Component {
                 </button>
             );
         })
-        return <div class='Items'>{buttons}</div>;
+        return <div className='Items'>{buttons}</div>;
     }
 }
 
