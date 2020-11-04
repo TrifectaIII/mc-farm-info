@@ -1,6 +1,6 @@
-# react-redux-template
+# mc-farm-info
 
-My personalized starting point for react-redux projects. 
+
 
 ---
 
