@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mc-farm-info/static/css/main.cac7454a.chunk.css",
-    "main.js": "/mc-farm-info/static/js/main.dbe11b2f.chunk.js",
-    "main.js.map": "/mc-farm-info/static/js/main.dbe11b2f.chunk.js.map",
+    "main.js": "/mc-farm-info/static/js/main.c2fc5423.chunk.js",
+    "main.js.map": "/mc-farm-info/static/js/main.c2fc5423.chunk.js.map",
     "runtime-main.js": "/mc-farm-info/static/js/runtime-main.7c8893d9.js",
     "runtime-main.js.map": "/mc-farm-info/static/js/runtime-main.7c8893d9.js.map",
     "static/js/2.61c2736a.chunk.js": "/mc-farm-info/static/js/2.61c2736a.chunk.js",
     "static/js/2.61c2736a.chunk.js.map": "/mc-farm-info/static/js/2.61c2736a.chunk.js.map",
     "index.html": "/mc-farm-info/index.html",
-    "precache-manifest.c75a1d0c775c96b5839ba3f5b1748dfb.js": "/mc-farm-info/precache-manifest.c75a1d0c775c96b5839ba3f5b1748dfb.js",
+    "precache-manifest.35b923dab084f7f1f125fb976ed1d4a4.js": "/mc-farm-info/precache-manifest.35b923dab084f7f1f125fb976ed1d4a4.js",
     "service-worker.js": "/mc-farm-info/service-worker.js",
     "static/css/main.cac7454a.chunk.css.map": "/mc-farm-info/static/css/main.cac7454a.chunk.css.map",
     "static/js/2.61c2736a.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.61c2736a.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.7c8893d9.js",
     "static/js/2.61c2736a.chunk.js",
     "static/css/main.cac7454a.chunk.css",
-    "static/js/main.dbe11b2f.chunk.js"
+    "static/js/main.c2fc5423.chunk.js"
   ]
 }
