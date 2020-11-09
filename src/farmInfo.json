@@ -95,11 +95,11 @@
         "Notes":"The farm is a short walk from the portal on the nether side: 185x, -448z. AFK Platform is high in the air. Output is sorted."
     },
 
-    "(Cobble)stone Generator":{
+    "Cobblestone/Stone Generator":{
         "Location":"SKYBASE-01",
         "Automatic":false,
         "Produces":["Cobblestone", "Stone"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the eastern platform. Use a silk touch pickaxe to get stone, a regular pickaxe will get you cobblestone."
+        "Notes":"On the eastern platform. Use a Silk Touch pickaxe to get stone, or a regular pickaxe to get cobblestone."
     }
 }
