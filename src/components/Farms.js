@@ -11,7 +11,7 @@ class Farms extends React.Component {
         if (this.props.chosenItem in items) {
             const farmsDisplay = items[this.props.chosenItem].sort().map ((name) => {
                 const farmInfo = farms[name];
-                const producesImages = farmInfo.Produces.map((itemName) => {
+                const producesImages = farmInfo.Produces.sort().map((itemName) => {
                     return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
                 })
                 return (

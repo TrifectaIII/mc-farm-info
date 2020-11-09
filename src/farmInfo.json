@@ -85,5 +85,13 @@
         "Produces":["Magma Cream"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
         "Notes":"Use a boat (provided) to travel the ice path after exiting the portal. AFK Platform is high in the air."
+    },
+
+    "Hoglin Farm":{
+        "Location":"Through the Portal marked NetherXP",
+        "Automatic":true,
+        "Produces":["Cooked Porkchop", "Leather"],
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
+        "Notes":"The farm is a short walk from the portal on the nether side: 185x, -448z. AFK Platform is high in the air. Output is sorted."
     }
 }
