@@ -40,6 +40,7 @@ class App extends React.Component {
                 </label>
                 <p hidden={!this.state.mapShown}>
                     <img src={rail_map} alt='A map of the rail system'/>
+                    <p><i>Map Courtesy of Connor, Rail Engineer</i></p>
                 </p>
                 <Items/>
                 <Farms/>
