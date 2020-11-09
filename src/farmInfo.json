@@ -12,7 +12,7 @@
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world_the_end&mapname=flat&zoom=6&x=291&y=64&z=0",
-        "Notes":"Follow the waterfall, then walk to the end of the glass pathway. If you don't have a sword with Sweeping Edge III, borrow the sword in the chest by the entrance and swipe at the endermen."
+        "Notes":"Follow the waterfall, then walk to the end of the glass pathway. If you don't have a sword with Sweeping Edge III, borrow the sword on the wall by the entrance and swipe at the endermen."
     },
 
     "Overworld Mob Experience Farm":{
@@ -36,7 +36,7 @@
         "Automatic":true,
         "Produces":["Iron Ingot","Poppy"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the western platform. Output is sorted."
+        "Notes":"On the eastern platform. Output is sorted."
     },
 
     "Turbo Crop Farm":{
@@ -93,5 +93,13 @@
         "Produces":["Cooked Porkchop", "Leather"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
         "Notes":"The farm is a short walk from the portal on the nether side: 185x, -448z. AFK Platform is high in the air. Output is sorted."
+    },
+
+    "(Cobble)stone Generator":{
+        "Location":"SKYBASE-01",
+        "Automatic":false,
+        "Produces":["Cobblestone", "Stone"],
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
+        "Notes":"On the eastern platform. Use a silk touch pickaxe to get stone, a regular pickaxe will get you cobblestone."
     }
 }
