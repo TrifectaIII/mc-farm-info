@@ -76,7 +76,7 @@
         "Automatic":true,
         "Produces":["Honey Block"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Right on top of the nether roof, to the side once you exit the portal. Craft the output bottles into blocks, then place the empty bottles into the input chest near the top of the farm."
+        "Notes":"Right on top of the nether roof, to the side once you exit the portal. Craft the output bottles into blocks, then place the empty bottles into marked chest."
     },
 
     "Magma Cube Farm":{
