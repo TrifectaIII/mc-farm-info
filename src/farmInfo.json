@@ -101,5 +101,13 @@
         "Produces":["Cobblestone"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
         "Notes":"On the eastern platform. There is an on/off switch, please make sure it is off before leaving, or it will unload and explode itself."
+    },
+
+    "Oak/Birch Log Farm":{
+        "Location":"Overworld -2820x, -4600y",
+        "Automatic":false,
+        "Produces":["Oak Log", "Birch Log"],
+        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=-2824&y=64&z=-4598",
+        "Notes":"Stand on the target block with some saplings in hand, then right click on the dirt block. There is an on/off switch, please make sure it is off before leaving, or it will unload and explode itself."
     }
 }
