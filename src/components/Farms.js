@@ -14,12 +14,16 @@ class Farms extends React.Component {
                 const producesImages = farmInfo.Produces.sort().map((itemName) => {
                     return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
                 })
+                const inputsImages = farmInfo.Inputs ? (farmInfo.Inputs.sort().map((itemName) => {
+                    return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
+                })) : null;
                 return (
                     <div className='farmInfo' key={name}>
                         <h2>{name}</h2>
                         <p><b>Location: </b><a href={farmInfo.DynmapLink.replace('%REACT_APP_SERVER_IP%', process.env.REACT_APP_SERVER_IP)}>{farmInfo.Location}</a></p>
                         <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
                         <p><b>Produces: </b>{producesImages}</p>
+                        {inputsImages ? (<p><b>Inputs: </b>{inputsImages}</p>): null}
                         {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}
                     </div>
                 )
