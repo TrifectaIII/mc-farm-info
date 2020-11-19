@@ -119,6 +119,6 @@
         "Produces":["Leather", "String", "Nether Quartz", "Fire Charge", "Nether Brick", "Spectral Arrow", "Obsidian", "Crying Obsidian", "Soul Sand", "Gravel", "Blackstone", "Soul Speed", "Potion of Fire Resistance"],
         "Inputs":["Gold Ingot"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Right on top of the nether roof, to the south once you exit the portal. The required gold ingots can be acquired by crafting the gold nuggets from the Zombie Piglin Experience Farm. Press the button to start the farm up after all 4 redstone lamps have turned on, or the input chest is empty."
+        "Notes":"Right on top of the nether roof, to the south once you exit the portal. The required gold ingots can be acquired by crafting the gold nuggets from the Zombie Piglin Experience Farm. Press the button to start the farm up after both the redstone lamps have turned on."
     }
 }
