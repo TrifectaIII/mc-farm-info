@@ -5,28 +5,40 @@ import {deselectItem} from '../redux/actions';
 import Images from '../item_images';
 import './Farms.css';
 
+//function component for individual farm data sheets
+function Farm (props) {
+    const farmInfo = farms[props.name];
+    const producesImages = farmInfo.Produces.sort().map((itemName) => {
+        return (<img src={Images[itemName]} title={itemName} alt={itemName} key={itemName} />);
+    })
+    const inputsImages = farmInfo.Inputs ? (farmInfo.Inputs.sort().map((itemName) => {
+        return (<img src={Images[itemName]} title={itemName} alt={itemName} key={itemName} />);
+    })) : null;
+    return (
+        <div className='farmInfo'>
+            <h2>{props.name}</h2>
+            <p>
+                <b>Location: </b>
+                <a 
+                    href={farmInfo.DynmapLink.replace('%REACT_APP_SERVER_IP%', process.env.REACT_APP_SERVER_IP)}
+                >
+                    {farmInfo.Location}
+                </a>
+            </p>
+            <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
+            <p><b>Produces: </b>{producesImages}</p>
+            {inputsImages ? (<p><b>Inputs: </b>{inputsImages}</p>): null}
+            {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}
+        </div>
+    )
+}
+
 class Farms extends React.Component {
 
     render = () => {
         if (this.props.chosenItem in items) {
             const farmsDisplay = items[this.props.chosenItem].sort().map ((name) => {
-                const farmInfo = farms[name];
-                const producesImages = farmInfo.Produces.sort().map((itemName) => {
-                    return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
-                })
-                const inputsImages = farmInfo.Inputs ? (farmInfo.Inputs.sort().map((itemName) => {
-                    return (<img src={Images[itemName]} title={itemName} alt={itemName}/>);
-                })) : null;
-                return (
-                    <div className='farmInfo' key={name}>
-                        <h2>{name}</h2>
-                        <p><b>Location: </b><a href={farmInfo.DynmapLink.replace('%REACT_APP_SERVER_IP%', process.env.REACT_APP_SERVER_IP)}>{farmInfo.Location}</a></p>
-                        <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
-                        <p><b>Produces: </b>{producesImages}</p>
-                        {inputsImages ? (<p><b>Inputs: </b>{inputsImages}</p>): null}
-                        {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}
-                    </div>
-                )
+                return (<Farm key = {name} name={name}/>);
             })
 
             return (<div className='Farms'>{farmsDisplay}</div>);
