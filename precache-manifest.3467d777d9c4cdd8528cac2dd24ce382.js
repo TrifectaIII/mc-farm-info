@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af387078892a59f67ebafbf1850b850f",
+    "revision": "910b53ad010647c2c03ed5d5a0e90f4d",
     "url": "/mc-farm-info/index.html"
   },
   {
-    "revision": "b9e267d6239c35ba74fc",
+    "revision": "40ad763f049e425dae03",
     "url": "/mc-farm-info/static/css/main.cac7454a.chunk.css"
   },
   {
-    "revision": "8c1be2f7c7971e6e2008",
-    "url": "/mc-farm-info/static/js/2.61c2736a.chunk.js"
+    "revision": "f61e2b4e556e0e8eb8aa",
+    "url": "/mc-farm-info/static/js/2.1f78abba.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/mc-farm-info/static/js/2.61c2736a.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/mc-farm-info/static/js/2.1f78abba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9e267d6239c35ba74fc",
-    "url": "/mc-farm-info/static/js/main.59002379.chunk.js"
+    "revision": "40ad763f049e425dae03",
+    "url": "/mc-farm-info/static/js/main.09dc208e.chunk.js"
   },
   {
     "revision": "e3e46b34507d692bdfa6",
