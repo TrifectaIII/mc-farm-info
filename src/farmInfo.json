@@ -49,7 +49,7 @@
     },
 
     "Slime Farm":{
-        "Location":"Overworld -4040x, -3918z",
+        "Location":"Overworld -4040x, -3200z",
         "Automatic":true,
         "Produces":["Slimeball"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-4061&y=64&z=-3238",
