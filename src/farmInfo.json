@@ -65,7 +65,7 @@
     },
 
     "Guardian Farm":{
-        "Location":"Overworld -3280x, -3506y",
+        "Location":"Overworld -3280x, -3506z",
         "Automatic":true,
         "Produces":["Prismarine Shard", "Prismarine Crystals", "Ink Sac", "Raw Cod"],
         "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-3287&y=64&z=-3514",
@@ -105,7 +105,7 @@
     },
 
     "Oak/Birch Log Farm":{
-        "Location":"Overworld -2820x, -4600y",
+        "Location":"Overworld -2820x, -4600z",
         "Automatic":false,
         "Produces":["Oak Log", "Birch Log"],
         "Inputs":["Bone Meal"],
