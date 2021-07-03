@@ -1,124 +1,33 @@
 {
-    "Zombie Piglin Experience Farm":{
-        "Location":"Through the Portal marked NetherXP",
-        "Automatic":true,
-        "Produces":["Experience", "Gold Nugget"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Climb to the top of the scaffolding, then stand on the chest between the two drop chutes."
-    },
-
     "Enderman Experience Farm":{
         "Location":"Through the End Portal, off the main island",
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world_the_end&mapname=flat&zoom=6&x=291&y=64&z=0",
-        "Notes":"Follow the waterfall, then walk to the end of the glass pathway. If you don't have a sword with Sweeping Edge III, borrow the sword on the wall by the entrance and swipe at the endermen."
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
+        "Notes":"After entering the End, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword."
     },
 
-    "Overworld Mob Experience Farm":{
-        "Location":"SKYBASE-01",
+    "Overworld Mob Farm":{
+        "Location":"-505x, -1376z",
         "Automatic":true,
-        "Produces":["Experience", "Gunpowder","Arrow","Bone","Bow"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the northern platform. Will only drop Bows and Experience if you are in Manual mode, which requires you to kill them yourself with a sword. Output is sorted."
+        "Produces":["Gunpowder","Arrow","Bone", "String", "Spider Eye"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
+        "Notes":"Take the soul sand elevator to the AFK spot on top. Once you are done, sorted output is on the roof of the farm."
     },
 
     "Sugar Cane Farm":{
-        "Location":"SKYBASE-01",
+        "Location":"-505x, -1376z",
         "Automatic":true,
         "Produces":["Sugar Cane"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the northern platform."
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
+        "Notes":"Take the soul sand elevator, and hold forward to get off at the first stop. Output is behind the mob farm sorter."
     },
 
     "Iron Golem Farm":{
-        "Location":"SKYBASE-01",
+        "Location":"-760x, -1430z",
         "Automatic":true,
         "Produces":["Iron Ingot","Poppy"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the eastern platform. Output is sorted."
-    },
-
-    "Turbo Crop Farm":{
-        "Location":"SKYBASE-01",
-        "Automatic":false,
-        "Produces":["Carrot", "Potato", "Wheat", "Beetroot"],
-        "Inputs":["Bone Meal"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the northern platform. Stand to the right of the farmland and press down right click while holding the crop of your choice. The required bonemeal can be acquired by crafting the bones from the Overworld Mob Experience Farm."
-    },
-
-    "Slime Farm":{
-        "Location":"Overworld -4040x, -3200z",
-        "Automatic":true,
-        "Produces":["Slimeball"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-4061&y=64&z=-3238",
-        "Notes":"AFK Platform is high in the air. Output is underground, down a safe drop chute."
-    },
-
-    "Witch Farm":{
-        "Location":"Overworld -2384x, -5468z",
-        "Automatic":true,
-        "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Stick", "Glass Bottle", "Spider Eye", "Sugar"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=-2366&y=64&z=-5463",
-        "Notes":"AFK Platform is high in the air. Sorted output is in a pit next to the farm."
-    },
-
-    "Guardian Farm":{
-        "Location":"Overworld -3280x, -3506z",
-        "Automatic":true,
-        "Produces":["Prismarine Shard", "Prismarine Crystals", "Ink Sac", "Raw Cod"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-3287&y=64&z=-3514",
-        "Notes":"AFK Platform is high in the air. Sorted output is through the nether portal at the end of the pier."
-    },
-
-    "Honey Farm":{
-        "Location":"Through the Portal marked NetherXP",
-        "Automatic":true,
-        "Produces":["Honey Block"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Right on top of the nether roof, to the north once you exit the portal. Craft the output bottles into blocks, then place the empty bottles into marked chest."
-    },
-
-    "Magma Cube Farm":{
-        "Location":"Through the Portal marked NetherXP",
-        "Automatic":true,
-        "Produces":["Magma Cream"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Use a boat (provided) to travel the ice path after exiting the portal. AFK Platform is high in the air."
-    },
-
-    "Hoglin Farm":{
-        "Location":"Through the Portal marked NetherXP",
-        "Automatic":true,
-        "Produces":["Cooked Porkchop", "Leather"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"The farm is a short walk from the portal on the nether side: 185x, -448z. Look for the marked pathway. AFK Platform is high in the air. Output is sorted."
-    },
-
-    "Cobblestone Generator":{
-        "Location":"SKYBASE-01",
-        "Automatic":true,
-        "Produces":["Cobblestone"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=5&x=-2352&y=64&z=-3297",
-        "Notes":"On the eastern platform. There is an on/off switch, please make sure it is off before leaving, or it will unload and explode itself."
-    },
-
-    "Oak/Birch Log Farm":{
-        "Location":"Overworld -2820x, -4600z",
-        "Automatic":false,
-        "Produces":["Oak Log", "Birch Log"],
-        "Inputs":["Bone Meal"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=-2824&y=64&z=-4598",
-        "Notes":"Stand on the target block with some saplings in hand, then right click on the dirt block. There is an on/off switch, please make sure it is off before leaving, or it will unload and explode itself. The required bonemeal can be acquired by crafting the bones from the Overworld Mob Experience Farm."
-    },
-
-    "Piglin Bartering Farm":{
-        "Location":"Through the Portal marked NetherXP",
-        "Automatic":true,
-        "Produces":["Leather", "String", "Nether Quartz", "Fire Charge", "Nether Brick", "Spectral Arrow", "Obsidian", "Crying Obsidian", "Soul Sand", "Gravel", "Blackstone", "Soul Speed", "Potion of Fire Resistance"],
-        "Inputs":["Gold Ingot"],
-        "DynmapLink":"http://%REACT_APP_SERVER_IP%:8123/?worldname=world&mapname=flat&zoom=6&x=2553&y=64&z=-2449",
-        "Notes":"Right on top of the nether roof, to the south once you exit the portal. The required gold ingots can be acquired by crafting the gold nuggets from the Zombie Piglin Experience Farm. Press the button to start the farm up after both the redstone lamps have turned on."
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-766&y=64&z=-1426",
+        "Notes":"Output in a chest at the bottom of the farm."
     }
 }

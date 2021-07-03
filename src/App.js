@@ -3,17 +3,9 @@ import './App.css';
 import {connect} from 'react-redux';
 import Items from './components/Items';
 import Farms from './components/Farms';
-import rail_map from './Minecraft_Rail_Map.png';
 
 
 class App extends React.Component {
-
-    constructor (props) {
-        super(props) 
-        this.state = {
-            mapShown: false,
-        }
-    }
 
     handleMapChange = (event) => {
         this.setState({
@@ -30,19 +22,6 @@ class App extends React.Component {
                     </a>
                 </div>
                 <h1>MC Farm Info</h1>
-                <label>
-                    <input 
-                        type="checkbox"
-                        checked={this.state.mapShown}
-                        onChange={this.handleMapChange}
-                    /> 
-                    Show Rail Map
-                </label>
-                <p hidden={!this.state.mapShown}>
-                    <img src={rail_map} alt='A map of the rail system'/>
-                    <br/>
-                    <span><i>Map by Connor</i></span>
-                </p>
                 <Items/>
                 <Farms/>
             </div>
