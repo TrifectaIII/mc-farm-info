@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/mc-farm-info/static/css/main.cac7454a.chunk.css",
-    "main.js": "/mc-farm-info/static/js/main.b4487884.chunk.js",
-    "main.js.map": "/mc-farm-info/static/js/main.b4487884.chunk.js.map",
+    "main.js": "/mc-farm-info/static/js/main.f42c6af5.chunk.js",
+    "main.js.map": "/mc-farm-info/static/js/main.f42c6af5.chunk.js.map",
     "runtime-main.js": "/mc-farm-info/static/js/runtime-main.7c8893d9.js",
     "runtime-main.js.map": "/mc-farm-info/static/js/runtime-main.7c8893d9.js.map",
-    "static/js/2.1f78abba.chunk.js": "/mc-farm-info/static/js/2.1f78abba.chunk.js",
-    "static/js/2.1f78abba.chunk.js.map": "/mc-farm-info/static/js/2.1f78abba.chunk.js.map",
+    "static/js/2.57b8887f.chunk.js": "/mc-farm-info/static/js/2.57b8887f.chunk.js",
+    "static/js/2.57b8887f.chunk.js.map": "/mc-farm-info/static/js/2.57b8887f.chunk.js.map",
     "index.html": "/mc-farm-info/index.html",
-    "precache-manifest.769684c4f277ae73f355014b01a7dd6d.js": "/mc-farm-info/precache-manifest.769684c4f277ae73f355014b01a7dd6d.js",
+    "precache-manifest.286c0fb1d3d4ec7740bd95064eb0cd94.js": "/mc-farm-info/precache-manifest.286c0fb1d3d4ec7740bd95064eb0cd94.js",
     "service-worker.js": "/mc-farm-info/service-worker.js",
     "static/css/main.cac7454a.chunk.css.map": "/mc-farm-info/static/css/main.cac7454a.chunk.css.map",
-    "static/js/2.1f78abba.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.1f78abba.chunk.js.LICENSE.txt",
+    "static/js/2.57b8887f.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.57b8887f.chunk.js.LICENSE.txt",
     "static/media/Crying_Obsidian.png": "/mc-farm-info/static/media/Crying_Obsidian.2ed98e5e.png",
     "static/media/Experience.gif": "/mc-farm-info/static/media/Experience.b4941feb.gif",
     "static/media/Gold_Nugget.png": "/mc-farm-info/static/media/Gold_Nugget.f0e9c2b7.png",
-    "static/media/Minecraft_Rail_Map.png": "/mc-farm-info/static/media/Minecraft_Rail_Map.f4e3690b.png",
     "static/media/Potion_of_Fire_Resistance.gif": "/mc-farm-info/static/media/Potion_of_Fire_Resistance.ba57f70b.gif",
     "static/media/Soul_Sand.png": "/mc-farm-info/static/media/Soul_Sand.bc4a0c24.png",
     "static/media/Soul_Speed.gif": "/mc-farm-info/static/media/Soul_Speed.a31b20de.gif",
@@ -23,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c8893d9.js",
-    "static/js/2.1f78abba.chunk.js",
+    "static/js/2.57b8887f.chunk.js",
     "static/css/main.cac7454a.chunk.css",
-    "static/js/main.b4487884.chunk.js"
+    "static/js/main.f42c6af5.chunk.js"
   ]
 }
