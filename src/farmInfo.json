@@ -10,7 +10,7 @@
     "Overworld Mob Farm":{
         "Location":"-505x, -1376z",
         "Automatic":true,
-        "Produces":["Gunpowder","Arrow","Bone", "String", "Spider Eye"],
+        "Produces":["Gunpowder","Arrow","Bone", "String"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
         "Notes":"Take the soul sand elevator to the AFK spot on top. Once you are done, sorted output is on the roof of the farm."
     },
