@@ -4,7 +4,7 @@
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"After entering the End, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword."
+        "Notes":"After entering the End, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword. There is an enchanting setup next to the farm so you can use your levels immediately."
     },
 
     "Overworld Mob Farm":{
@@ -12,7 +12,7 @@
         "Automatic":true,
         "Produces":["Gunpowder","Arrow","Bone", "String"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
-        "Notes":"Take the soul sand elevator to the AFK spot on top. Once you are done, sorted output is on the roof of the farm."
+        "Notes":"Take the soul sand elevator to the AFK spot on top. Once you are done, sorted output is on the roof of the farm. On/Off switch is next to the output."
     },
 
     "Sugar Cane Farm":{
@@ -28,6 +28,6 @@
         "Automatic":true,
         "Produces":["Iron Ingot","Poppy"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-766&y=64&z=-1426",
-        "Notes":"Output in a chest at the bottom of the farm."
+        "Notes":"On/Off switch is next to the sorted output."
     }
 }
