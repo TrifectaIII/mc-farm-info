@@ -35,6 +35,13 @@
         "Automatic":true,
         "Produces":["Cooked Porkchop", "Leather"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot is on top of the scaffolding."
+        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot (red glass) is on top of the scaffolding."
+    },
+    "Witch Farm":{
+        "Location":"-332x, -1199z",
+        "Automatic":true,
+        "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
+        "Notes":"AFK spot (red glass) is high in the sky. Sorted output is right next to the AFK spot." 
     }
 }
