@@ -1,10 +1,10 @@
 {
     "Enderman Experience Farm":{
-        "Location":"Through the End Portal, off the main island",
+        "Location":"Through the End Portal in SKYBASE-02, off the main island",
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"After entering the End, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword. There is an enchanting setup next to the farm so you can use your levels immediately."
+        "Notes":"After entering the End from SKYBASE-02, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword. There is an enchanting setup next to the farm so you can use your levels immediately."
     },
 
     "Overworld Mob Farm":{
@@ -29,5 +29,12 @@
         "Produces":["Iron Ingot","Poppy"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-766&y=64&z=-1426",
         "Notes":"On/Off switch is next to the sorted output."
+    },
+    "Hoglin Farm":{
+        "Location":"4x, -2z on the Nether roof (access via SKYBASE-02)",
+        "Automatic":true,
+        "Produces":["Cooked Porkchop", "Leather"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot is on top of the scaffolding."
     }
 }
