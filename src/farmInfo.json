@@ -8,7 +8,7 @@
     },
 
     "Overworld Mob Farm":{
-        "Location":"-505x, -1376z",
+        "Location":"-505x, -1376z in the overworld, part of SKYBASE-02",
         "Automatic":true,
         "Produces":["Gunpowder","Arrow","Bone", "String"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
@@ -16,7 +16,7 @@
     },
 
     "Sugar Cane Farm":{
-        "Location":"-505x, -1376z",
+        "Location":"-505x, -1376z in the overworld, part of SKYBASE-02",
         "Automatic":true,
         "Produces":["Sugar Cane"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
@@ -24,7 +24,7 @@
     },
 
     "Iron Golem Farm":{
-        "Location":"-760x, -1430z",
+        "Location":"-760x, -1430z in the overworld, part of SKYBASE-02",
         "Automatic":true,
         "Produces":["Iron Ingot","Poppy"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-766&y=64&z=-1426",
@@ -38,7 +38,7 @@
         "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot (red glass) is on top of the scaffolding."
     },
     "Witch Farm":{
-        "Location":"-332x, -1199z",
+        "Location":"-332x, -1199z in the overworld",
         "Automatic":true,
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
