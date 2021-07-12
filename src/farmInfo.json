@@ -4,7 +4,7 @@
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"After entering the End from SKYBASE-02, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword. There is an enchanting setup next to the farm so you can use your levels immediately."
+        "Notes":"After entering the End from SKYBASE-02, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword or the sword which is provided. There is an enchanting setup next to the farm so you can use your levels immediately."
     },
 
     "Overworld Mob Farm":{
@@ -43,5 +43,12 @@
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
         "Notes":"AFK spot (red glass) is high in the sky. Sorted output is right next to the AFK spot." 
+    },
+    "Skeleton Experience Farm":{
+        "Location":"Inside the main storage area.",
+        "Automatic":false,
+        "Produces":["Arrow", "Bone", "Experience", "Bow"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-156&y=64&z=228",
+        "Notes":"Enter main storage, then find the staircase that leads to the farm. Just hit the skeletons with your sword or the sword which is provided." 
     }
 }
