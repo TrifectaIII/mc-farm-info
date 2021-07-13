@@ -45,10 +45,17 @@
         "Notes":"AFK spot (red glass) is high in the sky. Sorted output is right next to the AFK spot." 
     },
     "Skeleton Experience Farm":{
-        "Location":"Inside the main storage area.",
+        "Location":"Inside the main storage area",
         "Automatic":false,
         "Produces":["Arrow", "Bone", "Experience", "Bow"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-156&y=64&z=228",
         "Notes":"Enter main storage, then find the staircase that leads to the farm. Just hit the skeletons with your sword or the sword which is provided." 
+    },
+    "Blaze Farm":{
+        "Location":"-208x -113z in the Nether",
+        "Automatic":false,
+        "Produces":["Blaze Rod"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286_nether&mapname=flat&zoom=6&x=-213&y=64&z=-110",
+        "Notes":"Just swing your sword at them and collect from the chest. Be careful, at certain angles they can still hit you." 
     }
 }
