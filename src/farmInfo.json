@@ -57,5 +57,19 @@
         "Produces":["Blaze Rod", "Experience"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286_nether&mapname=flat&zoom=6&x=-213&y=64&z=-110",
         "Notes":"Just swing your sword (or the provided one) at them and collect from the chest. Be careful, at certain angles they can still hit you." 
+    },
+    "Honey Farm":{
+        "Location":"On the Nether roof, right through the SKYBASE-02 portal",
+        "Automatic":true,
+        "Produces":["Honey Block"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
+        "Notes":"Collect honey bottles from the output, then craft them into blocks and put the empty bottles back into the marked chest." 
+    },
+    "Honeycomb Farm":{
+        "Location":"On the Nether roof, right through the SKYBASE-02 portal",
+        "Automatic":true,
+        "Produces":["Honeycomb"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
+        "Notes":"Occasionally you will need to put more shears into the system as they break." 
     }
 }
