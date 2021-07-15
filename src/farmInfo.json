@@ -54,8 +54,8 @@
     "Blaze Farm":{
         "Location":"-208x -113z in the Nether",
         "Automatic":false,
-        "Produces":["Blaze Rod"],
+        "Produces":["Blaze Rod", "Experience"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286_nether&mapname=flat&zoom=6&x=-213&y=64&z=-110",
-        "Notes":"Just swing your sword at them and collect from the chest. Be careful, at certain angles they can still hit you." 
+        "Notes":"Just swing your sword (or the provided one) at them and collect from the chest. Be careful, at certain angles they can still hit you." 
     }
 }
