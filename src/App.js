@@ -22,6 +22,9 @@ class App extends React.Component {
                     </a>
                 </div>
                 <h1>MC Farm Info</h1>
+                <a href={process.env.REACT_APP_SERVER_IP}>
+                    <button class='dynmapLink'>DYNMAP</button>
+                </a>
                 <Items/>
                 <Farms/>
             </div>

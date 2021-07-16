@@ -25,3 +25,8 @@ a:active {
 img {
     max-width: 100%;
 }
+
+.dynmapLink {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: large;
+}
