@@ -42,7 +42,7 @@
         "Automatic":true,
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
-        "Notes":"AFK spot (red glass) is high in the sky. Sorted output is right next to the AFK spot." 
+        "Notes":"AFK spot (red glass) is high in the sky. Sorted output and on/off switch are right next to the AFK spot." 
     },
     "Skeleton Experience Farm":{
         "Location":"Inside the main storage area",
