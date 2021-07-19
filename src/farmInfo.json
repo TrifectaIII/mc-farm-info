@@ -12,7 +12,7 @@
         "Automatic":true,
         "Produces":["Gunpowder","Arrow","Bone", "String"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
-        "Notes":"Take the soul sand elevator to the AFK spot on top. Once you are done, sorted output is on the roof of the farm. On/Off switch is next to the output."
+        "Notes":"Take the soul sand elevator to the AFK spot (red glass) on top. Once you are done, sorted output is on the roof of the farm. On/Off switch is next to the output."
     },
 
     "Sugar Cane Farm":{
@@ -20,7 +20,7 @@
         "Automatic":true,
         "Produces":["Sugar Cane"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
-        "Notes":"Take the soul sand elevator, and hold forward to get off at the first stop. Output is behind the mob farm sorter."
+        "Notes":"On the roof of the mob farm. Output is behind the mob farm sorter."
     },
 
     "Iron Golem Farm":{
@@ -71,5 +71,12 @@
         "Produces":["Honeycomb"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
         "Notes":"Occasionally you will need to put more shears into the system as they break." 
-    }
+    },
+    "Slime Farm":{
+        "Location":"-556x, -1335z in the overworld, part of SKYBASE-02",
+        "Automatic":true,
+        "Produces":["Slimeball"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-548&y=64&z=-1331",
+        "Notes":"Stand on the AFK spot (red glass). Output is right next to the AFK spot." 
+    },
 }
