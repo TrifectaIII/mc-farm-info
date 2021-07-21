@@ -30,6 +30,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-766&y=64&z=-1426",
         "Notes":"On/Off switch is next to the sorted output."
     },
+
     "Hoglin Farm":{
         "Location":"4x, -2z on the Nether roof (access via SKYBASE-02)",
         "Automatic":true,
@@ -37,6 +38,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
         "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot (red glass) is on top of the scaffolding."
     },
+
     "Witch Farm":{
         "Location":"-332x, -1199z in the overworld",
         "Automatic":true,
@@ -44,6 +46,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
         "Notes":"AFK spot (red glass) is high in the sky. Sorted output and on/off switch are right next to the AFK spot." 
     },
+
     "Skeleton Experience Farm":{
         "Location":"Inside the main storage area",
         "Automatic":false,
@@ -51,6 +54,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-156&y=64&z=228",
         "Notes":"Enter main storage, then find the staircase that leads to the farm. Just hit the skeletons with your sword or the sword which is provided. This farm is slower than the enderman farm, but may be more convenient." 
     },
+
     "Blaze Farm":{
         "Location":"-208x -113z in the Nether",
         "Automatic":false,
@@ -58,6 +62,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286_nether&mapname=flat&zoom=6&x=-213&y=64&z=-110",
         "Notes":"Just swing your sword (or the provided one) at them and collect from the chest. Be careful, at certain angles they can still hit you." 
     },
+
     "Honey Farm":{
         "Location":"On the Nether roof, right through the SKYBASE-02 portal",
         "Automatic":true,
@@ -65,6 +70,7 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
         "Notes":"Collect honey bottles from the output, then craft them into blocks and put the empty bottles back into the marked chest." 
     },
+
     "Honeycomb Farm":{
         "Location":"On the Nether roof, right through the SKYBASE-02 portal",
         "Automatic":true,
@@ -72,11 +78,20 @@
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
         "Notes":"Occasionally you will need to put more shears into the system as they break." 
     },
+
     "Slime Farm":{
         "Location":"-556x, -1335z in the overworld, part of SKYBASE-02",
         "Automatic":true,
         "Produces":["Slimeball"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-548&y=64&z=-1331",
         "Notes":"Stand on the AFK spot (red glass). Output is right next to the AFK spot." 
+    },
+
+    "Tree Farm":{
+        "Location":"-575x, -1410z in the overworld, part of SKYBASE-02",
+        "Automatic":true,
+        "Produces":["Birch Log", "Oak Log", "Spruce Log"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-573&y=64&z=-1410",
+        "Notes":"Please take whatever you want from the output chests, but DO NOT run this farm yourself. Ask Trifecta to run it for you." 
     }
 }
