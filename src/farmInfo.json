@@ -93,5 +93,21 @@
         "Produces":["Birch Log", "Oak Log", "Spruce Log", "Apple"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-573&y=64&z=-1410",
         "Notes":"Please take whatever you want from the output chests, but DO NOT run this farm yourself. Ask Trifecta to run it for you." 
+    },
+    
+    "Copper Farm":{
+        "Location":"Temporarily inaccessible except by teleport (ask Trifecta)",
+        "Automatic":false,
+        "Produces":["Copper Ingot"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-156&y=64&z=228",
+        "Notes":"Stand by the chest and swipe at the drowned. This farm is very slow, and it would probably be faster to just go mine copper."
+    },
+
+    "Wither Skeleton Farm":{
+        "Location":"464x, -735y on the Nether roof (access via SKYBASE-02)",
+        "Automatic":false,
+        "Produces":["Wither Skeleton Skull", "Bone", "Coal"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding to reach the red glass at the top, then wait three to four minutes. You should then begin to get a steady stream of wither skeletons to kill. Sorted output is below the red glass level. This farm only operates when you are the only person in the Nether, and nobody is in the overworld."
     }
 }
