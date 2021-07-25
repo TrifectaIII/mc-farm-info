@@ -104,10 +104,18 @@
     },
 
     "Wither Skeleton Farm":{
-        "Location":"464x, -735y on the Nether roof (access via SKYBASE-02)",
+        "Location":"464x, -735z on the Nether roof (access via SKYBASE-02)",
         "Automatic":false,
         "Produces":["Wither Skeleton Skull", "Bone", "Coal"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
         "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding to reach the red glass at the top, then wait three to four minutes. You should then begin to get a steady stream of wither skeletons to kill. Sorted output is below the red glass level. This farm only operates when you are the only person in the Nether, and nobody is in the overworld."
+    },
+
+    "Gold Farm":{
+        "Location":"-100x, -125z on the Nether roof (access via SKYBASE-02)",
+        "Automatic":true,
+        "Produces":["Gold Nugget"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Output is on ground level."
     }
 }
