@@ -117,5 +117,13 @@
         "Produces":["Gold Nugget"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
         "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Output is on ground level."
+    }, 
+
+    "Ghast Farm":{
+        "Location":"300x, -100z on the Nether roof (access via SKYBASE-02)",
+        "Automatic":true,
+        "Produces":["Gunpowder", "Ghast Tear"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Sorted output is on ground level."
     }
 }
