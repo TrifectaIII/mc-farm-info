@@ -153,5 +153,13 @@
         "Produces":["Cobblestone", "Stone"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
         "Notes":"Face directly into the stone block, then mine straight ahead. Use a Silk Touch pickaxe if you want to get stone rather than cobble. Output is on the side."
+    },
+
+    "Guardian Farm":{
+        "Location":"-1855x, -2320z in the overworld",
+        "Automatic":true,
+        "Produces":["Ink Sac", "Raw Cod", "Prismarine Crystals", "Prismarine Shard"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-1854&y=64&z=-2317",
+        "Notes":"Stand on the AFK Spot (red glass) high in the sky to use the farm. Sorted output surrounds the AFK spot. You can easily reach this farm via the Nether roof: access the roof, then exit using the portal at -232x, -290z."
     }
 }
