@@ -9,17 +9,19 @@ class Items extends React.Component {
 
     render = () => {
         const buttons = Object.keys(items).sort().map((name) => {
+
             return (
                 <button 
                     key={name} 
-                    // disable to currently selected button
+                    // disable the currently selected button
                     disabled={name === this.props.chosenItem}
                     onClick={()=>this.props.selectItem(name)}
+                    hidden={this.props.searchString && !name.toLowerCase().includes(this.props.searchString.toLowerCase())}
                 >
                     <img src={Images[name]} title={name} alt={name}/>
                 </button>
             );
-        })
+        });
         return <div className='Items'>{buttons}</div>;
     }
 }
@@ -27,6 +29,7 @@ class Items extends React.Component {
 const mapStateToProps = (state, ownProps) => {
     return {
         chosenItem: state.reducer.chosenItem,
+        searchString: state.reducer.searchString,
     }
 }
 

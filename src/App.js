@@ -1,16 +1,15 @@
 import React from 'react';
 import './App.css';
 import {connect} from 'react-redux';
+import {setSearchString} from './redux/actions';
 import Items from './components/Items';
 import Farms from './components/Farms';
 
 
 class App extends React.Component {
 
-    handleMapChange = (event) => {
-        this.setState({
-            mapShown: event.target.checked,
-        })
+    handleSearch = (event) => {
+        this.props.setSearchString(event.target.value);
     }
 
     render = () => {
@@ -23,8 +22,10 @@ class App extends React.Component {
                 </div>
                 <h1>MC Farm Info</h1>
                 <a href={process.env.REACT_APP_SERVER_IP}>
-                    <button class='dynmapLink'>DYNMAP</button>
+                    <button className='dynmapLink'>DYNMAP</button>
                 </a>
+                <br/><br/>
+                <input type='text' onChange={this.handleSearch} className='searchbar' />
                 <Items/>
                 <Farms/>
             </div>
@@ -34,12 +35,12 @@ class App extends React.Component {
 
 const mapStateToProps = (state, ownProps) => {
     return {
-        
+
     }
 }
 
 const mapDispatchToProps = {
-   
+    setSearchString,
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
