@@ -36,7 +36,7 @@
         "Automatic":true,
         "Produces":["Cooked Porkchop", "Leather"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Sorted output is on ground level, AFK spot (red glass) is on top of the scaffolding."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Sorted output is on ground level, AFK spot (red glass) is on top of the scaffolding."
     },
 
     "Witch Farm":{
@@ -44,7 +44,7 @@
         "Automatic":true,
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
-        "Notes":"AFK spot (red glass) is high in the sky. Sorted output and on/off switch are right next to the AFK spot." 
+        "Notes":"AFK spot (red glass) is high in the sky. Sorted output and on/off switch are right next to the AFK spot. You can easily reach this farm via the Nether roof: access the roof via the hub portal, then exit using the portal at -42x, -152z." 
     },
 
     "Skeleton Experience Farm":{
@@ -68,7 +68,7 @@
         "Automatic":true,
         "Produces":["Honey Block"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"Collect honey bottles from the output, then craft them into blocks and put the empty bottles back into the marked chest." 
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Collect honey bottles from the output, then craft them into blocks and put the empty bottles back into the marked chest." 
     },
 
     "Honeycomb Farm":{
@@ -77,7 +77,7 @@
         "Produces":["Honeycomb"],
         "Inputs":["Shears"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"Occasionally you will need to put more shears into the system as they break." 
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Occasionally you will need to put more shears into the system as they break." 
     },
 
     "Slime Farm":{
@@ -110,7 +110,7 @@
         "Automatic":false,
         "Produces":["Wither Skeleton Skull", "Bone", "Coal"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding to reach the red glass at the top, then wait three to four minutes. You should then begin to get a steady stream of wither skeletons to kill. Sorted output is below the red glass level. This farm only operates when you are the only person in the Nether, and nobody is in the overworld."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Climb the scaffolding to reach the red glass at the top, then wait three to four minutes. You should then begin to get a steady stream of wither skeletons to kill. Sorted output is below the red glass level. This farm only operates when you are the only person in the Nether, and nobody is in the overworld."
     },
 
     "Gold Farm":{
@@ -118,7 +118,7 @@
         "Automatic":true,
         "Produces":["Gold Nugget"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Output is on ground level."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Output is on ground level."
     }, 
 
     "Ghast Farm":{
@@ -126,7 +126,7 @@
         "Automatic":true,
         "Produces":["Gunpowder", "Ghast Tear"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Sorted output is on ground level."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Climb the scaffolding and stand on the AFK spot (red glass) to use the farm. Sorted output is on ground level."
     },
 
     "Piglin Bartering Farm":{
@@ -135,7 +135,7 @@
         "Produces":["String", "Nether Brick", "Fire Charge", "Spectral Arrow", "Leather", "Nether Quartz", "Gravel", "Soul Sand", "Crying Obsidian", "Obsidian", "Blackstone", "Potion of Fire Resistance", "Soul Speed"],
         "Inputs":["Gold Ingot"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering any of the portals in SKYBASE-02, then head to the coordinates. Place gold ingots into the input chest, them press the button to start the farm. The farm will run until the gold runs out."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Place gold ingots into the input chest, them press the button to start the farm. The farm will run until the gold runs out."
     }, 
 
     "Nano Crop Farm":{
@@ -160,6 +160,6 @@
         "Automatic":true,
         "Produces":["Ink Sac", "Raw Cod", "Prismarine Crystals", "Prismarine Shard"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-1854&y=64&z=-2317",
-        "Notes":"Stand on the AFK Spot (red glass) high in the sky to use the farm. Sorted output surrounds the AFK spot. You can easily reach this farm via the Nether roof: access the roof, then exit using the portal at -232x, -290z."
+        "Notes":"Stand on the AFK Spot (red glass) high in the sky to use the farm. Sorted output surrounds the AFK spot. You can easily reach this farm via the Nether roof: access the roof via the hub portal, then exit using the portal at -232x, -290z."
     }
 }
