@@ -169,5 +169,13 @@
         "Produces":["Glow Ink Sac"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-692&y=64&z=-1667",
         "Notes":"Stand on the AFK Spot (red glass) high in the sky to use the farm. Output is next to the AFK spot. You can easily reach this farm via the Nether roof: access the roof via the hub portal, then exit using the portal at -87x, -210z."
+    },
+
+    "Shulker Farm":{
+        "Location":"70x, 90z on the Nether roof (access via SKYBASE-02)",
+        "Automatic":true,
+        "Produces":["Shulker Shell"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Output is right at the coordinates."
     }
 }
