@@ -177,5 +177,13 @@
         "Produces":["Shulker Shell"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
         "Notes":"Output is right at the coordinates."
+    },
+
+    "Basalt Generator":{
+        "Location":"-115x, -142z on the Nether roof (access via SKYBASE-02)",
+        "Automatic":false,
+        "Produces":["Basalt"],
+        "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
+        "Notes":"Face directly into the basalt block, then mine straight ahead. Output is on the side."
     }
 }
