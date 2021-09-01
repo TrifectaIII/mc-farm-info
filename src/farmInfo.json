@@ -20,7 +20,7 @@
         "Automatic":true,
         "Produces":["Sugar Cane"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
-        "Notes":"On the roof of the mob farm. Output is behind the mob farm sorter."
+        "Notes":"On the roof of the mob farm. Output is next to the mob farm sorter."
     },
 
     "Iron Golem Farm":{
@@ -176,7 +176,7 @@
         "Automatic":true,
         "Produces":["Shulker Shell"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Output is right at the coordinates."
+        "Notes":"Output is right at the coordinates. If the farm is not running, you can enter the portal and switch it on."
     },
 
     "Basalt Generator":{
