@@ -10,6 +10,7 @@
     "Overworld Mob Farm":{
         "Location":"-505x, -1376z in the overworld, part of SKYBASE-02",
         "Automatic":true,
+        "Switch": true,
         "Produces":["Gunpowder","Arrow","Bone", "String"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-509&y=64&z=-1376",
         "Notes":"Take the soul sand elevator to the AFK spot (red glass) on top. Once you are done, sorted output is on the roof of the farm. On/Off switch is next to the output."
@@ -42,6 +43,7 @@
     "Witch Farm":{
         "Location":"-332x, -1199z in the overworld",
         "Automatic":true,
+        "Switch": true,
         "Produces":["Redstone Dust", "Glowstone Dust", "Gunpowder", "Sugar", "Spider Eye", "Stick", "Glass Bottle"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-337&y=64&z=-1197",
         "Notes":"AFK spot (red glass) is high in the sky. Sorted output and on/off switch are right next to the AFK spot. You can easily reach this farm via the Nether roof: access the roof via the hub portal, then exit using the portal at -42x, -152z." 
@@ -83,6 +85,7 @@
     "Slime Farm":{
         "Location":"-556x, -1335z in the overworld, part of SKYBASE-02",
         "Automatic":true,
+        "Switch": true,
         "Produces":["Slimeball"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-548&y=64&z=-1331",
         "Notes":"Stand on the AFK spot (red glass). Output is right next to the AFK spot." 
@@ -158,6 +161,7 @@
     "Guardian Farm":{
         "Location":"-1855x, -2320z in the overworld",
         "Automatic":true,
+        "Switch": true,
         "Produces":["Ink Sac", "Raw Cod", "Prismarine Crystals", "Prismarine Shard"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-1854&y=64&z=-2317",
         "Notes":"Stand on the AFK Spot (red glass) high in the sky to use the farm. Sorted output surrounds the AFK spot. You can easily reach this farm via the Nether roof: access the roof via the hub portal, then exit using the portal at -232x, -290z."
