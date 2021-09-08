@@ -26,7 +26,15 @@ function Farm (props) {
                 </a>
             </p>
             <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
-            <p><b>Mob Switch: </b>{farmInfo.Switch ? "❌" : "✔️"} <span role='img' title={farmInfo.Switch ? 'Requires the Mob Switch to be turned off' : 'Will work with the Mob Switch on'}>❔</span></p>
+            <p>
+                <b>Mob Switch </b>
+                <span 
+                        role='img' 
+                        title={farmInfo.Switch ? 'Requires the Mob Switch to be turned off' : 'Will work with the Mob Switch on'}
+                    >
+                {farmInfo.Switch ? "❌" : "✔️"} 
+                </span>
+            </p>
             <p><b>Produces: </b>{producesImages}</p>
             {inputsImages ? (<p><b>Inputs: </b>{inputsImages}</p>): null}
             {farmInfo.Notes ? (<p><b>Notes: </b>{farmInfo.Notes}</p>) : null}

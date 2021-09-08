@@ -33,7 +33,7 @@
     },
 
     "Hoglin Farm":{
-        "Location":"4x, -2z on the Nether roof (access via SKYBASE-02)",
+        "Location":"-475x, 28z on the Nether roof (access via SKYBASE-02)",
         "Automatic":true,
         "Produces":["Cooked Porkchop", "Leather"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
