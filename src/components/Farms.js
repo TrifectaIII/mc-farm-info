@@ -27,7 +27,7 @@ function Farm (props) {
             </p>
             <p><b>Automatic: </b>{farmInfo.Automatic ? "✔️" : "❌"}</p>
             <p>
-                <b>Mob Switch </b>
+                <b>Mob Switch: </b>
                 <span 
                         role='img' 
                         title={farmInfo.Switch ? 'Requires the Mob Switch to be turned off' : 'Will work with the Mob Switch on'}
