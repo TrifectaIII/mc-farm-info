@@ -138,7 +138,7 @@
         "Produces":["String", "Nether Brick", "Fire Charge", "Spectral Arrow", "Leather", "Nether Quartz", "Gravel", "Soul Sand", "Crying Obsidian", "Obsidian", "Blackstone", "Potion of Fire Resistance", "Soul Speed"],
         "Inputs":["Gold Ingot"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-651&y=64&z=-1373",
-        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Place gold ingots into the input chest, them press the button to start the farm. The farm will run until the gold runs out."
+        "Notes":"Reach the Nether roof by entering the portal at the hub and then climbing the ladder in the safehouse. Place gold ingots into the input chest, them press the button to start the farm. The farm will run until the gold runs out. Sorted output is automatically placed into shulker boxes."
     }, 
 
     "Nano Crop Farm":{
