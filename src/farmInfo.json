@@ -4,7 +4,7 @@
         "Automatic":false,
         "Produces":["Experience", "Ender Pearl"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-659&y=64&z=-1374",
-        "Notes":"After entering the End from SKYBASE-02, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword or the sword which is provided. There is an enchanting setup next to the farm so you can use your levels immediately."
+        "Notes":"After entering the End from SKYBASE-02, take the downward steps and eventually you will hit the farm. Just hit the endermen with your sword or the sword which is provided. There is an enchanting setup next to the farm so you can use your levels immediately. Place extra pearls into the garbage chute chests."
     },
 
     "Overworld Mob Farm":{
