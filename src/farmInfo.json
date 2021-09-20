@@ -97,7 +97,7 @@
         "Produces":["Birch Log", "Oak Log", "Spruce Log", "Apple"],
         "Inputs":["Bone Meal"],
         "DynmapLink":"%REACT_APP_SERVER_IP%/?worldname=paper_1_17_1310286&mapname=flat&zoom=6&x=-573&y=64&z=-1410",
-        "Notes":"Take a stack of saplings in your hand, then turn the farm on, stand on the target block, and hold down right click on the dirt block. Sorted output is right next to the farm." 
+        "Notes":"Take a stack of saplings in your hand, then turn the farm on, stand on the target block, and hold down right click on the dirt block. Sorted output is right next to the farm. The farm will keep restocking your saplings as it runs." 
     },
     
     "Copper Farm":{
