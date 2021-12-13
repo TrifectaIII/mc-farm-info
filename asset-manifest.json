@@ -5,13 +5,13 @@
     "main.js.map": "/mc-farm-info/static/js/main.7860a208.chunk.js.map",
     "runtime-main.js": "/mc-farm-info/static/js/runtime-main.7c8893d9.js",
     "runtime-main.js.map": "/mc-farm-info/static/js/runtime-main.7c8893d9.js.map",
-    "static/js/2.f75cdea5.chunk.js": "/mc-farm-info/static/js/2.f75cdea5.chunk.js",
-    "static/js/2.f75cdea5.chunk.js.map": "/mc-farm-info/static/js/2.f75cdea5.chunk.js.map",
+    "static/js/2.a90ac5dd.chunk.js": "/mc-farm-info/static/js/2.a90ac5dd.chunk.js",
+    "static/js/2.a90ac5dd.chunk.js.map": "/mc-farm-info/static/js/2.a90ac5dd.chunk.js.map",
     "index.html": "/mc-farm-info/index.html",
-    "precache-manifest.e7ac24e88d78ae39ce3cbdecfddff87e.js": "/mc-farm-info/precache-manifest.e7ac24e88d78ae39ce3cbdecfddff87e.js",
+    "precache-manifest.63bb3a57c4f14b3b1cb0e0d9bc3d3a1a.js": "/mc-farm-info/precache-manifest.63bb3a57c4f14b3b1cb0e0d9bc3d3a1a.js",
     "service-worker.js": "/mc-farm-info/service-worker.js",
     "static/css/main.5624d294.chunk.css.map": "/mc-farm-info/static/css/main.5624d294.chunk.css.map",
-    "static/js/2.f75cdea5.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.f75cdea5.chunk.js.LICENSE.txt",
+    "static/js/2.a90ac5dd.chunk.js.LICENSE.txt": "/mc-farm-info/static/js/2.a90ac5dd.chunk.js.LICENSE.txt",
     "static/media/Crying_Obsidian.png": "/mc-farm-info/static/media/Crying_Obsidian.2ed98e5e.png",
     "static/media/Experience.gif": "/mc-farm-info/static/media/Experience.b4941feb.gif",
     "static/media/Gold_Nugget.png": "/mc-farm-info/static/media/Gold_Nugget.f0e9c2b7.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c8893d9.js",
-    "static/js/2.f75cdea5.chunk.js",
+    "static/js/2.a90ac5dd.chunk.js",
     "static/css/main.5624d294.chunk.css",
     "static/js/main.7860a208.chunk.js"
   ]

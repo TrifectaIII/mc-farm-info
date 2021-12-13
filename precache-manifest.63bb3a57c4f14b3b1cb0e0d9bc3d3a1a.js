@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2834bed7006245718de0a39fa122663",
+    "revision": "47376c5a5ef11264f7342e47ca57ccd7",
     "url": "/mc-farm-info/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mc-farm-info/static/css/main.5624d294.chunk.css"
   },
   {
-    "revision": "6244fffe98943715ee41",
-    "url": "/mc-farm-info/static/js/2.f75cdea5.chunk.js"
+    "revision": "ab225f3b98864b8d1aa3",
+    "url": "/mc-farm-info/static/js/2.a90ac5dd.chunk.js"
   },
   {
-    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/mc-farm-info/static/js/2.f75cdea5.chunk.js.LICENSE.txt"
+    "revision": "2d0dc3ea56ea29aa89323d664321ba6d",
+    "url": "/mc-farm-info/static/js/2.a90ac5dd.chunk.js.LICENSE.txt"
   },
   {
     "revision": "6ed18cd182a637c787e3",
